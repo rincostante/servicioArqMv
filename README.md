@@ -1,0 +1,4 @@
+servicioArqMv
+=============
+
+Arquetipo para servicios
